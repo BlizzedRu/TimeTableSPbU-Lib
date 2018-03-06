@@ -1,0 +1,7 @@
+{
+  "statusCode": "string",
+  "errors": [
+    "string"
+  ],
+  "helpUrl": "string"
+}
