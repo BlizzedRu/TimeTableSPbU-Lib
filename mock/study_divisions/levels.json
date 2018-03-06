@@ -1,0 +1,656 @@
+[
+  {
+    "StudyLevelName": "Аспирантура",
+    "StudyLevelNameEnglish": "doctoral studies",
+    "HasCourse6": false,
+    "StudyProgramCombinations": [
+      {
+        "Name": "Математическая кибернетика",
+        "NameEnglish": "Mathematical Cybernetics",
+        "AdmissionYears": [
+          {
+            "StudyProgramId": 9262,
+            "YearName": "2017",
+            "YearNumber": 2017,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 8236,
+            "YearName": "2016",
+            "YearNumber": 2016,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 1627,
+            "YearName": "2015",
+            "YearNumber": 2015,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 1837,
+            "YearName": "2014",
+            "YearNumber": 2014,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          }
+        ]
+      },
+      {
+        "Name": "Математическое моделирование динамических систем и процессов управления",
+        "NameEnglish": "Mathematical Modelling of Dynamical Systems and Control Processes",
+        "AdmissionYears": [
+          {
+            "StudyProgramId": 2929,
+            "YearName": "2013",
+            "YearNumber": 2013,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          }
+        ]
+      },
+      {
+        "Name": "Прикладная математика и процессы управления",
+        "NameEnglish": "Applied Mathematics and Control Processes",
+        "AdmissionYears": [
+          {
+            "StudyProgramId": 9246,
+            "YearName": "2017",
+            "YearNumber": 2017,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 8209,
+            "YearName": "2016",
+            "YearNumber": 2016,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 6544,
+            "YearName": "2015",
+            "YearNumber": 2015,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          }
+        ]
+      },
+      {
+        "Name": "Системный анализ, информатика и управление",
+        "NameEnglish": "System Analysis, Informatics and Control",
+        "AdmissionYears": [
+          {
+            "StudyProgramId": 9236,
+            "YearName": "2017",
+            "YearNumber": 2017,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 8226,
+            "YearName": "2016",
+            "YearNumber": 2016,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 5696,
+            "YearName": "2015",
+            "YearNumber": 2015,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "StudyLevelName": "Бакалавриат",
+    "StudyLevelNameEnglish": "bachelor studies",
+    "HasCourse6": false,
+    "StudyProgramCombinations": [
+      {
+        "Name": "Математические методы системного анализа и управления в информационно-экспертных системах",
+        "NameEnglish": "Mathematical Methods of System Analysis and Control into Information and Expert Systems",
+        "AdmissionYears": [
+          {
+            "StudyProgramId": 9290,
+            "YearName": "2017",
+            "YearNumber": 2017,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          }
+        ]
+      },
+      {
+        "Name": "Прикладная математика, фундаментальная информатика и программирование",
+        "NameEnglish": "Applied Mathematics, Fundamental Informatics and Programming",
+        "AdmissionYears": [
+          {
+            "StudyProgramId": 9230,
+            "YearName": "2017",
+            "YearNumber": 2017,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 8225,
+            "YearName": "2016",
+            "YearNumber": 2016,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 3478,
+            "YearName": "2015",
+            "YearNumber": 2015,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 2760,
+            "YearName": "2014",
+            "YearNumber": 2014,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 5665,
+            "YearName": "2013",
+            "YearNumber": 2013,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          }
+        ]
+      },
+      {
+        "Name": "Прикладные математика, информатика и физика",
+        "NameEnglish": "Applied Mathematics,  Computer Science and Physics",
+        "AdmissionYears": [
+          {
+            "StudyProgramId": 8223,
+            "YearName": "2016",
+            "YearNumber": 2016,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 2504,
+            "YearName": "2015",
+            "YearNumber": 2015,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          }
+        ]
+      },
+      {
+        "Name": "Прикладные математика, физика и процессы управления",
+        "NameEnglish": "Applied Mathematics, Physics and Control Processes",
+        "AdmissionYears": [
+          {
+            "StudyProgramId": 4637,
+            "YearName": "2014",
+            "YearNumber": 2014,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 5356,
+            "YearName": "2013",
+            "YearNumber": 2013,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          }
+        ]
+      },
+      {
+        "Name": "Программирование и информационные технологии",
+        "NameEnglish": "Programming and Information Technology",
+        "AdmissionYears": [
+          {
+            "StudyProgramId": 9259,
+            "YearName": "2017",
+            "YearNumber": 2017,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 8200,
+            "YearName": "2016",
+            "YearNumber": 2016,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 7181,
+            "YearName": "2015",
+            "YearNumber": 2015,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 4115,
+            "YearName": "2014",
+            "YearNumber": 2014,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 2616,
+            "YearName": "2013",
+            "YearNumber": 2013,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "StudyLevelName": "Магистратура",
+    "StudyLevelNameEnglish": "master studies",
+    "HasCourse6": false,
+    "StudyProgramCombinations": [
+      {
+        "Name": "Автоматизация научных исследований",
+        "NameEnglish": "Research Automation",
+        "AdmissionYears": [
+          {
+            "StudyProgramId": 9278,
+            "YearName": "2017",
+            "YearNumber": 2017,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 8228,
+            "YearName": "2016",
+            "YearNumber": 2016,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 6497,
+            "YearName": "2015",
+            "YearNumber": 2015,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          }
+        ]
+      },
+      {
+        "Name": "Вычислительные технологии",
+        "NameEnglish": "Computational Technologies",
+        "AdmissionYears": [
+          {
+            "StudyProgramId": 9232,
+            "YearName": "2017",
+            "YearNumber": 2017,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 8204,
+            "YearName": "2016",
+            "YearNumber": 2016,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 4144,
+            "YearName": "2015",
+            "YearNumber": 2015,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          }
+        ]
+      },
+      {
+        "Name": "Информационные и ядерные технологии",
+        "NameEnglish": "Information and Nuclear Technology",
+        "AdmissionYears": [
+          {
+            "StudyProgramId": 9234,
+            "YearName": "2017",
+            "YearNumber": 2017,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 7733,
+            "YearName": "2016",
+            "YearNumber": 2016,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          }
+        ]
+      },
+      {
+        "Name": "Исследование операций и системный анализ",
+        "NameEnglish": "Operations Research and System Analysis",
+        "AdmissionYears": [
+          {
+            "StudyProgramId": 9279,
+            "YearName": "2017",
+            "YearNumber": 2017,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 8237,
+            "YearName": "2016",
+            "YearNumber": 2016,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 3218,
+            "YearName": "2015",
+            "YearNumber": 2015,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          }
+        ]
+      },
+      {
+        "Name": "Математические и информационные технологии",
+        "NameEnglish": "Mathematical and Information Technologies",
+        "AdmissionYears": [
+          {
+            "StudyProgramId": 9226,
+            "YearName": "2017",
+            "YearNumber": 2017,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 8239,
+            "YearName": "2016",
+            "YearNumber": 2016,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 6720,
+            "YearName": "2015",
+            "YearNumber": 2015,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          }
+        ]
+      },
+      {
+        "Name": "Математическое и информационное обеспечение экономической деятельности",
+        "NameEnglish": "Mathematical and Information Support of Economic Activity",
+        "AdmissionYears": [
+          {
+            "StudyProgramId": 9225,
+            "YearName": "2017",
+            "YearNumber": 2017,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 8222,
+            "YearName": "2016",
+            "YearNumber": 2016,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 3393,
+            "YearName": "2015",
+            "YearNumber": 2015,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          }
+        ]
+      },
+      {
+        "Name": "Математическое моделирование в задачах естествознания",
+        "NameEnglish": "Mathematical Modelling in Problems of Natural Science",
+        "AdmissionYears": [
+          {
+            "StudyProgramId": 9267,
+            "YearName": "2017",
+            "YearNumber": 2017,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 8195,
+            "YearName": "2016",
+            "YearNumber": 2016,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 4609,
+            "YearName": "2015",
+            "YearNumber": 2015,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          }
+        ]
+      },
+      {
+        "Name": "Методы прикладной математики и информатики в задачах управления",
+        "NameEnglish": "Methods of Applied Mathematics and Computer Science in Control Problems",
+        "AdmissionYears": [
+          {
+            "StudyProgramId": 9249,
+            "YearName": "2017",
+            "YearNumber": 2017,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 8234,
+            "YearName": "2016",
+            "YearNumber": 2016,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 3567,
+            "YearName": "2015",
+            "YearNumber": 2015,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          }
+        ]
+      },
+      {
+        "Name": "Методы системного анализа и оптимизации информационно-экспертных систем и технологий",
+        "NameEnglish": "Methods of Systems Analysis and Optimization of Information Expert Systems and Technologies",
+        "AdmissionYears": [
+          {
+            "StudyProgramId": 9288,
+            "YearName": "2017",
+            "YearNumber": 2017,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          }
+        ]
+      },
+      {
+        "Name": "Надёжность и безопасность сложных систем",
+        "NameEnglish": "Reliability and Safety of Complex Systems",
+        "AdmissionYears": [
+          {
+            "StudyProgramId": 9292,
+            "YearName": "2017",
+            "YearNumber": 2017,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 8206,
+            "YearName": "2016",
+            "YearNumber": 2016,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 2203,
+            "YearName": "2015",
+            "YearNumber": 2015,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          }
+        ]
+      },
+      {
+        "Name": "Прикладная информатика",
+        "NameEnglish": "Applied Informatics",
+        "AdmissionYears": [
+          {
+            "StudyProgramId": 9256,
+            "YearName": "2017",
+            "YearNumber": 2017,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 8199,
+            "YearName": "2016",
+            "YearNumber": 2016,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 6625,
+            "YearName": "2015",
+            "YearNumber": 2015,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          }
+        ]
+      },
+      {
+        "Name": "Прикладная математика и информатика в задачах медицинской диагностики",
+        "NameEnglish": "Applied Mathematics and Computer Science in Problems of Medical Diagnosis",
+        "AdmissionYears": [
+          {
+            "StudyProgramId": 9280,
+            "YearName": "2017",
+            "YearNumber": 2017,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 8205,
+            "YearName": "2016",
+            "YearNumber": 2016,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 5458,
+            "YearName": "2015",
+            "YearNumber": 2015,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          }
+        ]
+      },
+      {
+        "Name": "Прикладная математика и информатика в задачах цифрового управления",
+        "NameEnglish": "Applied Mathematics and Computer Science in Problems of Digital Control",
+        "AdmissionYears": [
+          {
+            "StudyProgramId": 9289,
+            "YearName": "2017",
+            "YearNumber": 2017,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 8211,
+            "YearName": "2016",
+            "YearNumber": 2016,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 5092,
+            "YearName": "2015",
+            "YearNumber": 2015,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          }
+        ]
+      },
+      {
+        "Name": "Прикладные информационные технологии. Информационные экспертные системы",
+        "NameEnglish": "Applied Informatics Technologies. Information Expert Systems",
+        "AdmissionYears": [
+          {
+            "StudyProgramId": 9283,
+            "YearName": "2017",
+            "YearNumber": 2017,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 8494,
+            "YearName": "2016",
+            "YearNumber": 2016,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          }
+        ]
+      },
+      {
+        "Name": "Теория игр и исследование операций",
+        "NameEnglish": "Game Theory and Operations Research",
+        "AdmissionYears": [
+          {
+            "StudyProgramId": 9224,
+            "YearName": "2017",
+            "YearNumber": 2017,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 8486,
+            "YearName": "2016",
+            "YearNumber": 2016,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          }
+        ]
+      },
+      {
+        "Name": "Технологии баз данных",
+        "NameEnglish": "Database Technologies",
+        "AdmissionYears": [
+          {
+            "StudyProgramId": 9248,
+            "YearName": "2017",
+            "YearNumber": 2017,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 8213,
+            "YearName": "2016",
+            "YearNumber": 2016,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          },
+          {
+            "StudyProgramId": 4217,
+            "YearName": "2015",
+            "YearNumber": 2015,
+            "IsEmpty": false,
+            "PublicDivisionAlias": "AMCP"
+          }
+        ]
+      }
+    ]
+  }
+]

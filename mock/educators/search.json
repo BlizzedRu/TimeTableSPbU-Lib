@@ -1,0 +1,16 @@
+{
+  "EducatorLastNameQuery": "Гришкин",
+  "Educators": [
+    {
+      "Id": 1337,
+      "DisplayName": "Гришкин В. М.",
+      "FullName": "Гришкин Валерий Михайлович",
+      "Employments": [
+        {
+          "Position": "доцент",
+          "Department": "Кф компьют.моделиров. и многопроц.систем"
+        }
+      ]
+    }
+  ]
+}

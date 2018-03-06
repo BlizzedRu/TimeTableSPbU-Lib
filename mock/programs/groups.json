@@ -1,0 +1,65 @@
+{
+  "Id": 3478,
+  "Groups": [
+    {
+      "StudentGroupId": 14882,
+      "StudentGroupName": "15.Б01-пу",
+      "StudentGroupStudyForm": "очная",
+      "StudentGroupProfiles": "Системный анализ, исследование операций и управление"
+    },
+    {
+      "StudentGroupId": 14883,
+      "StudentGroupName": "15.Б02-пу",
+      "StudentGroupStudyForm": "очная",
+      "StudentGroupProfiles": "Дискретная математика и математическое программирование"
+    },
+    {
+      "StudentGroupId": 14884,
+      "StudentGroupName": "15.Б03-пу",
+      "StudentGroupStudyForm": "очная",
+      "StudentGroupProfiles": "Прикладная математика, информатика и процессы управления"
+    },
+    {
+      "StudentGroupId": 14885,
+      "StudentGroupName": "15.Б04-пу",
+      "StudentGroupStudyForm": "очная",
+      "StudentGroupProfiles": "Исследование и проектирование систем управления и обработки ..."
+    },
+    {
+      "StudentGroupId": 14886,
+      "StudentGroupName": "15.Б05-пу",
+      "StudentGroupStudyForm": "очная",
+      "StudentGroupProfiles": "Исследование и проектирование систем управления и обработки ..."
+    },
+    {
+      "StudentGroupId": 14887,
+      "StudentGroupName": "15.Б06-пу",
+      "StudentGroupStudyForm": "очная",
+      "StudentGroupProfiles": "Процессы управления и высокопроизводительные вычислительные ..."
+    },
+    {
+      "StudentGroupId": 14888,
+      "StudentGroupName": "15.Б07-пу",
+      "StudentGroupStudyForm": "очная",
+      "StudentGroupProfiles": "Математическое и программное обеспечение вычислительных маши..."
+    },
+    {
+      "StudentGroupId": 14889,
+      "StudentGroupName": "15.Б08-пу",
+      "StudentGroupStudyForm": "очная",
+      "StudentGroupProfiles": "Математическое и программное обеспечение вычислительных маши..."
+    },
+    {
+      "StudentGroupId": 14890,
+      "StudentGroupName": "15.Б09-пу",
+      "StudentGroupStudyForm": "очная",
+      "StudentGroupProfiles": "Математическое и программное обеспечение вычислительных маши..."
+    },
+    {
+      "StudentGroupId": 14891,
+      "StudentGroupName": "15.Б10-пу",
+      "StudentGroupStudyForm": "очная",
+      "StudentGroupProfiles": "Математическое моделирование систем и процессов управления"
+    }
+  ]
+}

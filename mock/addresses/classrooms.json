@@ -1,0 +1,610 @@
+[
+  {
+    "Oid": "a0f191b7-c380-4032-8e48-0047a15f7f0f",
+    "DisplayName1": "331",
+    "SeatingType": 0,
+    "Capacity": 6,
+    "AdditionalInfo": "кабинет кафедры",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "2b595e01-e953-4f67-a074-026fb159964f",
+    "DisplayName1": "235",
+    "SeatingType": 0,
+    "Capacity": 30,
+    "AdditionalInfo": "",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "65e3b468-0d84-41a3-b702-03a37caef1d2",
+    "DisplayName1": "433",
+    "SeatingType": 0,
+    "Capacity": 8,
+    "AdditionalInfo": "МЭС",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "2dbc82ce-307c-49df-820d-0bc5d7f11a81",
+    "DisplayName1": "353",
+    "SeatingType": 0,
+    "Capacity": 32,
+    "AdditionalInfo": "",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "4e42c6d1-0e73-44fc-9fd6-12956e305126",
+    "DisplayName1": "226",
+    "SeatingType": 0,
+    "Capacity": 20,
+    "AdditionalInfo": "Проектор, экран, аудио, Компьютерный класс ( 12 ПК )",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "171c5545-319b-4626-ab7a-12f406f97e58",
+    "DisplayName1": "281",
+    "SeatingType": 0,
+    "Capacity": 12,
+    "AdditionalInfo": "компьютерный класс",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "a8aa0060-26ec-4c15-b1df-15990dc491d0",
+    "DisplayName1": "233",
+    "SeatingType": 0,
+    "Capacity": 10,
+    "AdditionalInfo": "КММС",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "7fc67438-972c-45a8-afc1-161d4e1e6389",
+    "DisplayName1": "246",
+    "SeatingType": 0,
+    "Capacity": 12,
+    "AdditionalInfo": null,
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "0e0ff7b3-4944-4fe9-988d-1669ef4e38bb",
+    "DisplayName1": "440",
+    "SeatingType": 0,
+    "Capacity": 12,
+    "AdditionalInfo": "МЭКС",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "7da5a630-4661-408a-b215-1ec91484f5a3",
+    "DisplayName1": "242",
+    "SeatingType": 0,
+    "Capacity": 4,
+    "AdditionalInfo": "кабинет зав.кафедры ИС",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "b317d882-15c0-40d7-bcb9-21ed81653f97",
+    "DisplayName1": "219",
+    "SeatingType": 0,
+    "Capacity": 20,
+    "AdditionalInfo": "",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "e844c129-7cbf-46a2-b1bd-23353a855287",
+    "DisplayName1": "444",
+    "SeatingType": 0,
+    "Capacity": 12,
+    "AdditionalInfo": null,
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "6cdc6cad-87e8-4d94-a617-2dd42697a2ba",
+    "DisplayName1": "239А",
+    "SeatingType": 0,
+    "Capacity": 4,
+    "AdditionalInfo": "МУД",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "06dbd10e-cf3b-400d-8c83-3070e72268ee",
+    "DisplayName1": "248",
+    "SeatingType": 0,
+    "Capacity": 32,
+    "AdditionalInfo": "",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "2f066be6-0e2e-4734-b2e1-311a2decb1dc",
+    "DisplayName1": "314",
+    "SeatingType": 0,
+    "Capacity": 5,
+    "AdditionalInfo": null,
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "08b07e0c-4c63-49db-bb0d-36dbfc1fbb68",
+    "DisplayName1": "329",
+    "SeatingType": 0,
+    "Capacity": 24,
+    "AdditionalInfo": "",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "d6303961-0add-403c-ab54-385e5abc0d8b",
+    "DisplayName1": "422",
+    "SeatingType": 0,
+    "Capacity": 5,
+    "AdditionalInfo": null,
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "461c8aa8-649a-44aa-873f-39d302a39eb9",
+    "DisplayName1": "371",
+    "SeatingType": 0,
+    "Capacity": 12,
+    "AdditionalInfo": null,
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "950e7b93-9763-4164-babd-42ba8f4ece91",
+    "DisplayName1": "240",
+    "SeatingType": 0,
+    "Capacity": 28,
+    "AdditionalInfo": "",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "22e523ae-78e4-4850-8f05-4bb172ce743b",
+    "DisplayName1": "252",
+    "SeatingType": 0,
+    "Capacity": 5,
+    "AdditionalInfo": "ВМ",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "00643400-42e1-4b6a-9e45-54eae7ffbd0d",
+    "DisplayName1": "441",
+    "SeatingType": 0,
+    "Capacity": 5,
+    "AdditionalInfo": "МЭКС",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "aaa8f131-ef7e-4c93-9fdf-577aee40f2c4",
+    "DisplayName1": "327",
+    "SeatingType": 0,
+    "Capacity": 50,
+    "AdditionalInfo": null,
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "2d998807-8c15-455a-9722-5831c50a1fb4",
+    "DisplayName1": "345",
+    "SeatingType": 0,
+    "Capacity": 32,
+    "AdditionalInfo": "",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "1ebef883-cfc3-4f21-b227-590e5393f0d1",
+    "DisplayName1": "228",
+    "SeatingType": 0,
+    "Capacity": 20,
+    "AdditionalInfo": "Проектор, экран, аудиосистема",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "d38eb1e2-6cad-4620-bd42-60b1821edd1c",
+    "DisplayName1": "279",
+    "SeatingType": 0,
+    "Capacity": 22,
+    "AdditionalInfo": "Проектор, экран 1.7х1.3, ПК, колонки",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "a8b0312e-775d-401b-b0a2-62eaf7fbe23f",
+    "DisplayName1": "430",
+    "SeatingType": 0,
+    "Capacity": 24,
+    "AdditionalInfo": "Проектор, экран 2.0х1.5, ПК",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "c5890545-821d-41a1-a14b-6540a462089d",
+    "DisplayName1": "449",
+    "SeatingType": 0,
+    "Capacity": 6,
+    "AdditionalInfo": "МТЭР, допуск: Приставко В.Т., Свищикова М.В., Ледовская В.А.",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "beb4afdc-ff10-41ba-bc0b-65657f6f6306",
+    "DisplayName1": "335",
+    "SeatingType": 0,
+    "Capacity": 5,
+    "AdditionalInfo": "МСЭС",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "d73432db-454c-4691-a72b-662902c8ed97",
+    "DisplayName1": "322",
+    "SeatingType": 0,
+    "Capacity": 8,
+    "AdditionalInfo": null,
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "2db3a14d-eb25-4298-958c-696b9daaefb0",
+    "DisplayName1": "437",
+    "SeatingType": 0,
+    "Capacity": 4,
+    "AdditionalInfo": "МЭКС",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "06db3123-4b16-4907-9c1d-6b9ad5f91914",
+    "DisplayName1": "334",
+    "SeatingType": 0,
+    "Capacity": 3,
+    "AdditionalInfo": "МСЭС",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "5e055fe7-6a29-4c8a-8c80-6bb8f59715d1",
+    "DisplayName1": "337",
+    "SeatingType": 0,
+    "Capacity": 0,
+    "AdditionalInfo": "Кафедра",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "8ef09473-3e7c-4035-b583-7473875fb94b",
+    "DisplayName1": "336",
+    "SeatingType": 0,
+    "Capacity": 32,
+    "AdditionalInfo": "",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "1e2c81a9-0886-4a94-a059-754e5e677e24",
+    "DisplayName1": "253",
+    "SeatingType": 0,
+    "Capacity": 18,
+    "AdditionalInfo": null,
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "6bf991b2-e3df-4f9f-abbf-79ce805528d7",
+    "DisplayName1": "254",
+    "SeatingType": 0,
+    "Capacity": 4,
+    "AdditionalInfo": "МТИСР",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "09df371c-7f87-4518-abdc-7a2b713466a5",
+    "DisplayName1": "316",
+    "SeatingType": 0,
+    "Capacity": 18,
+    "AdditionalInfo": null,
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "ef361280-66fb-4137-bf73-7c412d5e8c23",
+    "DisplayName1": "471",
+    "SeatingType": 0,
+    "Capacity": 24,
+    "AdditionalInfo": "",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "c01e154d-148b-4f8b-95ba-7ee74c1124e0",
+    "DisplayName1": "333",
+    "SeatingType": 0,
+    "Capacity": 30,
+    "AdditionalInfo": "",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "3fa3a220-a2ac-4f86-a9b6-87182b1d06f2",
+    "DisplayName1": "366",
+    "SeatingType": 0,
+    "Capacity": 5,
+    "AdditionalInfo": null,
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "65cdf264-f8ff-4fc8-9863-87bd670cbca0",
+    "DisplayName1": "438",
+    "SeatingType": 0,
+    "Capacity": 4,
+    "AdditionalInfo": "МЭКС",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "01959a23-9b51-4d2a-a572-89565372429b",
+    "DisplayName1": "413",
+    "SeatingType": 0,
+    "Capacity": 28,
+    "AdditionalInfo": "",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "5285be92-2dbe-46ec-ab7f-8a2a710d5430",
+    "DisplayName1": "435",
+    "SeatingType": 0,
+    "Capacity": 4,
+    "AdditionalInfo": "МЭКС",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "c970daf3-8732-4d6b-945c-8b4342bfe9b1",
+    "DisplayName1": "417 А",
+    "SeatingType": 0,
+    "Capacity": 30,
+    "AdditionalInfo": "МУД",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "9107d61f-9906-46e9-92eb-90ab0353672e",
+    "DisplayName1": "469",
+    "SeatingType": 0,
+    "Capacity": 18,
+    "AdditionalInfo": "Проектор, экран, аудио, Компьютерный класс ( 16 ПК )",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "7f49d8fa-19c2-4767-bd97-938ae2e99b36",
+    "DisplayName1": "225",
+    "SeatingType": 0,
+    "Capacity": 60,
+    "AdditionalInfo": "Проектор, экран 2.3х1.7",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "2d9c713d-da68-4423-94eb-9444d988a205",
+    "DisplayName1": "249",
+    "SeatingType": 0,
+    "Capacity": 5,
+    "AdditionalInfo": "ВМ",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "73d8dc6e-4711-4d53-afaf-955387c84e8b",
+    "DisplayName1": "237",
+    "SeatingType": 0,
+    "Capacity": 5,
+    "AdditionalInfo": null,
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "0ad67e57-4cc2-4254-8c36-9a2bcee6e412",
+    "DisplayName1": "243/2 А",
+    "SeatingType": 0,
+    "Capacity": 6,
+    "AdditionalInfo": "МУД",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "a4ffba58-fba7-4882-aa34-9b948fcc7c2d",
+    "DisplayName1": "343",
+    "SeatingType": 0,
+    "Capacity": 16,
+    "AdditionalInfo": "",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "dfd1045e-b615-48a9-b180-9be65794d3b6",
+    "DisplayName1": "439",
+    "SeatingType": 0,
+    "Capacity": 18,
+    "AdditionalInfo": "Проектор, экран, аудио, Компьютерный класс ( 14 ПК )",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "811f256d-bc80-43c7-b05a-9dbcf55363fe",
+    "DisplayName1": "203Е",
+    "SeatingType": 0,
+    "Capacity": 6,
+    "AdditionalInfo": "кабинет кафедры",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "a5b1f187-8e45-4883-bee1-9de11fb53883",
+    "DisplayName1": "218",
+    "SeatingType": 0,
+    "Capacity": 15,
+    "AdditionalInfo": "ТУ",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "cd226cec-77ee-4fc3-9760-a09fca2cc9e7",
+    "DisplayName1": "277",
+    "SeatingType": 0,
+    "Capacity": 7,
+    "AdditionalInfo": "ТП",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "f499ebf0-f8d8-4eff-bbfd-a4e1a017dad3",
+    "DisplayName1": "305/1",
+    "SeatingType": 1,
+    "Capacity": 350,
+    "AdditionalInfo": "2 проектора, 2 микрофона",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "db0256db-98ca-4313-886f-adf9a234b7fd",
+    "DisplayName1": "372",
+    "SeatingType": 0,
+    "Capacity": 20,
+    "AdditionalInfo": "",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "2b9d8667-268b-40a3-ad72-b1c4171d0942",
+    "DisplayName1": "455",
+    "SeatingType": 0,
+    "Capacity": 12,
+    "AdditionalInfo": "МТМСУ",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "a00e3c29-c24d-488b-839a-b8a148c7bcaf",
+    "DisplayName1": "405",
+    "SeatingType": 0,
+    "Capacity": 12,
+    "AdditionalInfo": "Компьютерный класс ( 9 ПК )",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "b30eb294-20b0-4f97-b212-b8c3033f9a24",
+    "DisplayName1": "424",
+    "SeatingType": 0,
+    "Capacity": 6,
+    "AdditionalInfo": null,
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "da2676f4-a4c5-421d-94e1-badf8a5fab8d",
+    "DisplayName1": "276",
+    "SeatingType": 0,
+    "Capacity": 22,
+    "AdditionalInfo": "Проектор, экран, аудио, Лингафонный класс (17 ПК )",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "12925ce9-3042-4c8b-a79b-bde66eb28d54",
+    "DisplayName1": "346",
+    "SeatingType": 0,
+    "Capacity": 15,
+    "AdditionalInfo": "КТПА",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "b5b57ec0-362b-48ba-8fba-c398d43bf2db",
+    "DisplayName1": "423",
+    "SeatingType": 0,
+    "Capacity": 5,
+    "AdditionalInfo": null,
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "40d3ec54-8539-425f-8790-c68d6a7c1271",
+    "DisplayName1": "421",
+    "SeatingType": 0,
+    "Capacity": 48,
+    "AdditionalInfo": "Проектор, экран",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "13d1b060-cb49-4158-91d6-cd43c5f53772",
+    "DisplayName1": "452",
+    "SeatingType": 0,
+    "Capacity": 15,
+    "AdditionalInfo": "проектор, доска",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "0b834c9a-ef86-4b74-ac61-ce4f2cfa0e4b",
+    "DisplayName1": "415",
+    "SeatingType": 0,
+    "Capacity": 18,
+    "AdditionalInfo": "Проектор, экран",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "2b4f5092-8dc3-4812-a8b7-d545f9082e37",
+    "DisplayName1": "432",
+    "SeatingType": 0,
+    "Capacity": 12,
+    "AdditionalInfo": "МЭС",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "df18281e-8efd-46c4-8a4b-d72657cc614c",
+    "DisplayName1": "434",
+    "SeatingType": 0,
+    "Capacity": 4,
+    "AdditionalInfo": "МЭКС",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "a5909199-7323-4cf0-af05-d8e1290b940c",
+    "DisplayName1": "338",
+    "SeatingType": 0,
+    "Capacity": 5,
+    "AdditionalInfo": "ДФС",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "67fe689e-b073-4a13-811f-e48aaa0cf48c",
+    "DisplayName1": "447",
+    "SeatingType": 0,
+    "Capacity": 25,
+    "AdditionalInfo": "Проектор, экран 2.0х1.5, ПК",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "6dd95e2f-86af-4733-968e-e676424ed8a6",
+    "DisplayName1": "450",
+    "SeatingType": 0,
+    "Capacity": 6,
+    "AdditionalInfo": "МТЭР, допуск: Тумка О.А.",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "448f2509-502d-41af-a664-e911aa912959",
+    "DisplayName1": "227",
+    "SeatingType": 0,
+    "Capacity": 6,
+    "AdditionalInfo": "КММС",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "2ac798b1-1086-49a2-9284-ea758029c8c0",
+    "DisplayName1": "280",
+    "SeatingType": 0,
+    "Capacity": 24,
+    "AdditionalInfo": "Проектор, экран 1.7х1.3, ПК, колонки",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "6f8dc29e-cc76-4659-93a7-ebf1df5e3ef6",
+    "DisplayName1": "360",
+    "SeatingType": 0,
+    "Capacity": 4,
+    "AdditionalInfo": null,
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "4141090d-2485-4425-a2ac-eeba059899af",
+    "DisplayName1": "217",
+    "SeatingType": 0,
+    "Capacity": 24,
+    "AdditionalInfo": "",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "a303077e-041f-4638-a597-f901d4b2c1fa",
+    "DisplayName1": "310",
+    "SeatingType": 0,
+    "Capacity": 20,
+    "AdditionalInfo": "Проектор, экран",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "3dd97671-c06f-417e-bf3b-fc479808a94c",
+    "DisplayName1": "243/1 А",
+    "SeatingType": 0,
+    "Capacity": 3,
+    "AdditionalInfo": "МУД",
+    "wantingEquipment": null
+  },
+  {
+    "Oid": "d8645356-1be9-4213-998a-fee764859627",
+    "DisplayName1": "350",
+    "SeatingType": 0,
+    "Capacity": 10,
+    "AdditionalInfo": "КТПА",
+    "wantingEquipment": null
+  }
+]

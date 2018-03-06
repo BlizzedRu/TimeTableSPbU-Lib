@@ -1,0 +1,14 @@
+[
+  {
+    "Alias": "Billboard",
+    "Name": "Афиша мероприятий"
+  },
+  {
+    "Alias": "Science",
+    "Name": "Научные мероприятия"
+  },
+  {
+    "Alias": "PhysTraining",
+    "Name": "Физкультура"
+  }
+]

@@ -1,0 +1,330 @@
+{
+  "Title": "Расписание преподавателя: Гришкин Валерий Михайлович",
+  "EducatorDisplayText": "Гришкин В. М.",
+  "EducatorLongDisplayText": "Гришкин Валерий Михайлович",
+  "DateRangeDisplayText": "1 февраля 2018 - 1 августа 2018",
+  "EducatorMasterId": 1337,
+  "IsSpringTerm": true,
+  "From": "2018-02-01T00:00:00",
+  "To": "2018-08-01T00:00:00",
+  "Next": null,
+  "SpringTermLinkAvailable": false,
+  "AutumnTermLinkAvailable": true,
+  "HasEvents": true,
+  "EducatorEventsDays": [
+    {
+      "Day": 1,
+      "DayString": "Понедельник",
+      "DayStudyEventsCount": 1,
+      "DayStudyEvents": [
+        {
+          "Start": "17:10:00",
+          "End": "18:45:00",
+          "Subject": "Электив. Теория и методы цифровой обработки изображений, экзамен (пересдача)",
+          "TimeIntervalString": "17:10",
+          "Dates": [
+            "19.2"
+          ],
+          "EducatorsDisplayText": "Гришкин В. М., доцент",
+          "IsCanceled": false,
+          "StudyEventsTimeTableKindCode": 2,
+          "EducatorIds": [
+            {
+              "Item1": 1337,
+              "Item2": "Гришкин В. М., доцент"
+            }
+          ],
+          "EventLocations": [
+            {
+              "IsEmpty": false,
+              "DisplayName": "Университетский просп., д. 35, корп. А, 228",
+              "HasGeographicCoordinates": true,
+              "Latitude": 59.882168,
+              "Longitude": 29.830498,
+              "LatitudeValue": "59.882168",
+              "LongitudeValue": "29.830498",
+              "EducatorsDisplayText": "Гришкин В. М., доцент",
+              "HasEducators": true,
+              "EducatorIds": [
+                {
+                  "Item1": 1337,
+                  "Item2": "Гришкин В. М., доцент"
+                }
+              ]
+            }
+          ],
+          "ContingentUnitNames": [
+            {
+              "Item1": "4 курс  123 потоки (14.Б01-пу - 14.Б10-пу)",
+              "Item2": "Процессы управления — 4 курс"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Day": 2,
+      "DayString": "Вторник",
+      "DayStudyEventsCount": 0,
+      "DayStudyEvents": []
+    },
+    {
+      "Day": 3,
+      "DayString": "Среда",
+      "DayStudyEventsCount": 0,
+      "DayStudyEvents": []
+    },
+    {
+      "Day": 4,
+      "DayString": "Четверг",
+      "DayStudyEventsCount": 3,
+      "DayStudyEvents": [
+        {
+          "Start": "11:15:00",
+          "End": "12:50:00",
+          "Subject": "Основы программирования, лекция",
+          "TimeIntervalString": "11:15-12:50",
+          "Dates": [
+            "с 15.2 по 1.3 (3)",
+            "с 15.3 по 5.4 (4)"
+          ],
+          "EducatorsDisplayText": "Гришкин В. М., доцент",
+          "IsCanceled": false,
+          "StudyEventsTimeTableKindCode": 1,
+          "EducatorIds": [
+            {
+              "Item1": 1337,
+              "Item2": "Гришкин В. М., доцент"
+            }
+          ],
+          "EventLocations": [
+            {
+              "IsEmpty": false,
+              "DisplayName": "Университетский просп., д. 35, корп. А, 276",
+              "HasGeographicCoordinates": true,
+              "Latitude": 59.882168,
+              "Longitude": 29.830498,
+              "LatitudeValue": "59.882168",
+              "LongitudeValue": "29.830498",
+              "EducatorsDisplayText": "Гришкин В. М., доцент",
+              "HasEducators": true,
+              "EducatorIds": [
+                {
+                  "Item1": 1337,
+                  "Item2": "Гришкин В. М., доцент"
+                }
+              ]
+            }
+          ],
+          "ContingentUnitNames": [
+            {
+              "Item1": "17.Б06-пу",
+              "Item2": "Процессы управления — 1 курс"
+            }
+          ]
+        },
+        {
+          "Start": "11:15:00",
+          "End": "12:50:00",
+          "Subject": "Основы программирования, практическое занятие",
+          "TimeIntervalString": "11:15-12:50",
+          "Dates": [
+            "с 12.4 по 24.5 (7)"
+          ],
+          "EducatorsDisplayText": "Гришкин В. М., доцент",
+          "IsCanceled": false,
+          "StudyEventsTimeTableKindCode": 1,
+          "EducatorIds": [
+            {
+              "Item1": 1337,
+              "Item2": "Гришкин В. М., доцент"
+            }
+          ],
+          "EventLocations": [
+            {
+              "IsEmpty": false,
+              "DisplayName": "Университетский просп., д. 35, корп. А, 276",
+              "HasGeographicCoordinates": true,
+              "Latitude": 59.882168,
+              "Longitude": 29.830498,
+              "LatitudeValue": "59.882168",
+              "LongitudeValue": "29.830498",
+              "EducatorsDisplayText": "Гришкин В. М., доцент",
+              "HasEducators": true,
+              "EducatorIds": [
+                {
+                  "Item1": 1337,
+                  "Item2": "Гришкин В. М., доцент"
+                }
+              ]
+            }
+          ],
+          "ContingentUnitNames": [
+            {
+              "Item1": "17.Б06-пу",
+              "Item2": "Процессы управления — 1 курс"
+            }
+          ]
+        },
+        {
+          "Start": "17:10:00",
+          "End": "18:45:00",
+          "Subject": "Математические методы цифровой обработки сигналов, экзамен (пересдача)",
+          "TimeIntervalString": "17:10",
+          "Dates": [
+            "22.2"
+          ],
+          "EducatorsDisplayText": "Гришкин В. М., доцент",
+          "IsCanceled": false,
+          "StudyEventsTimeTableKindCode": 2,
+          "EducatorIds": [
+            {
+              "Item1": 1337,
+              "Item2": "Гришкин В. М., доцент"
+            }
+          ],
+          "EventLocations": [
+            {
+              "IsEmpty": false,
+              "DisplayName": "Университетский просп., д. 35, корп. А, 276",
+              "HasGeographicCoordinates": true,
+              "Latitude": 59.882168,
+              "Longitude": 29.830498,
+              "LatitudeValue": "59.882168",
+              "LongitudeValue": "29.830498",
+              "EducatorsDisplayText": "Гришкин В. М., доцент",
+              "HasEducators": true,
+              "EducatorIds": [
+                {
+                  "Item1": 1337,
+                  "Item2": "Гришкин В. М., доцент"
+                }
+              ]
+            }
+          ],
+          "ContingentUnitNames": [
+            {
+              "Item1": "16.М10-пу",
+              "Item2": "Процессы управления — 2 курс"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Day": 5,
+      "DayString": "Пятница",
+      "DayStudyEventsCount": 0,
+      "DayStudyEvents": []
+    },
+    {
+      "Day": 6,
+      "DayString": "Суббота",
+      "DayStudyEventsCount": 2,
+      "DayStudyEvents": [
+        {
+          "Start": "17:10:00",
+          "End": "18:45:00",
+          "Subject": "Алгоритмические основы распознавания изображений, экзамен (пересдача)",
+          "TimeIntervalString": "17:10",
+          "Dates": [
+            "17.2"
+          ],
+          "EducatorsDisplayText": "Гришкин В. М., доцент; Жабко А. П., профессор",
+          "IsCanceled": false,
+          "StudyEventsTimeTableKindCode": 2,
+          "EducatorIds": [
+            {
+              "Item1": 1354,
+              "Item2": "Жабко А. П., профессор"
+            },
+            {
+              "Item1": 1337,
+              "Item2": "Гришкин В. М., доцент"
+            }
+          ],
+          "EventLocations": [
+            {
+              "IsEmpty": false,
+              "DisplayName": "Университетский просп., д. 35, корп. А, 218",
+              "HasGeographicCoordinates": true,
+              "Latitude": 59.882168,
+              "Longitude": 29.830498,
+              "LatitudeValue": "59.882168",
+              "LongitudeValue": "29.830498",
+              "EducatorsDisplayText": "Жабко А. П., профессор, Гришкин В. М., доцент",
+              "HasEducators": true,
+              "EducatorIds": [
+                {
+                  "Item1": 1354,
+                  "Item2": "Жабко А. П., профессор"
+                },
+                {
+                  "Item1": 1337,
+                  "Item2": "Гришкин В. М., доцент"
+                }
+              ]
+            }
+          ],
+          "ContingentUnitNames": [
+            {
+              "Item1": "17.М10-пу",
+              "Item2": "Процессы управления — 1 курс"
+            }
+          ]
+        },
+        {
+          "Start": "17:10:00",
+          "End": "18:45:00",
+          "Subject": "Алгоритмические основы распознавания изображений, экзамен (пересдача)",
+          "TimeIntervalString": "17:10",
+          "Dates": [
+            "17.2"
+          ],
+          "EducatorsDisplayText": "Гришкин В. М., доцент; Жабко А. П., профессор",
+          "IsCanceled": false,
+          "StudyEventsTimeTableKindCode": 2,
+          "EducatorIds": [
+            {
+              "Item1": 1354,
+              "Item2": "Жабко А. П., профессор"
+            },
+            {
+              "Item1": 1337,
+              "Item2": "Гришкин В. М., доцент"
+            }
+          ],
+          "EventLocations": [
+            {
+              "IsEmpty": false,
+              "DisplayName": "Университетский просп., д. 35, корп. А, 218",
+              "HasGeographicCoordinates": true,
+              "Latitude": 59.882168,
+              "Longitude": 29.830498,
+              "LatitudeValue": "59.882168",
+              "LongitudeValue": "29.830498",
+              "EducatorsDisplayText": "Жабко А. П., профессор, Гришкин В. М., доцент",
+              "HasEducators": true,
+              "EducatorIds": [
+                {
+                  "Item1": 1354,
+                  "Item2": "Жабко А. П., профессор"
+                },
+                {
+                  "Item1": 1337,
+                  "Item2": "Гришкин В. М., доцент"
+                }
+              ]
+            }
+          ],
+          "ContingentUnitNames": [
+            {
+              "Item1": "17.М04-пу",
+              "Item2": "Процессы управления — 1 курс"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

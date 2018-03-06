@@ -1,0 +1,1166 @@
+{
+  "StudentGroupId": 14887,
+  "StudentGroupDisplayName": "Группа 15.Б06-пу",
+  "TimeTableDisplayName": "Все занятия",
+  "PreviousWeekMonday": "2018-02-26",
+  "NextWeekMonday": "2018-03-12",
+  "IsPreviousWeekReferenceAvailable": true,
+  "IsNextWeekReferenceAvailable": true,
+  "IsCurrentWeekReferenceAvailable": false,
+  "WeekDisplayText": "5 марта – 11 марта",
+  "WeekMonday": "2018-03-05",
+  "Days": [
+    {
+      "Day": "2018-03-05T00:00:00",
+      "DayString": "понедельник, 5 марта",
+      "DayStudyEvents": [
+        {
+          "StudyEventsTimeTableKindCode": 0,
+          "Start": "2018-03-05T11:00:00",
+          "End": "2018-03-05T12:35:00",
+          "Subject": "Электив. Траектория 5 семестра. Немецкий язык, практическое занятие",
+          "TimeIntervalString": "11:00–12:35",
+          "DateWithTimeIntervalString": "5 марта 11:00–12:35",
+          "DisplayDateAndTimeIntervalString": "5 марта 11:00–12:35",
+          "LocationsDisplayText": "Университетский просп., д. 35, корп. Д, 131Д",
+          "EducatorsDisplayText": "Евстафьева Е. В., ассистент",
+          "HasEducators": true,
+          "IsCancelled": false,
+          "ContingentUnitName": "",
+          "DivisionAndCourse": "",
+          "IsAssigned": false,
+          "TimeWasChanged": false,
+          "LocationsWereChanged": false,
+          "EducatorsWereReassigned": false,
+          "ElectiveDisciplinesCount": 1,
+          "IsElective": false,
+          "HasTheSameTimeAsPreviousItem": false,
+          "ContingentUnitsDisplayTest": null,
+          "IsStudy": false,
+          "AllDay": false,
+          "WithinTheSameDay": false,
+          "EventLocations": [
+            {
+              "IsEmpty": false,
+              "DisplayName": "Университетский просп., д. 35, корп. Д, 131Д",
+              "HasGeographicCoordinates": true,
+              "Latitude": 59.882168,
+              "Longitude": 29.830498,
+              "LatitudeValue": "59.882168",
+              "LongitudeValue": "29.830498",
+              "EducatorsDisplayText": "Евстафьева Е. В., ассистент",
+              "HasEducators": true,
+              "EducatorIds": [
+                {
+                  "Item1": 5922,
+                  "Item2": "Евстафьева Е. В., ассистент"
+                }
+              ]
+            }
+          ],
+          "EducatorIds": [
+            {
+              "Item1": 5922,
+              "Item2": "Евстафьева Е. В., ассистент"
+            }
+          ]
+        },
+        {
+          "StudyEventsTimeTableKindCode": 0,
+          "Start": "2018-03-05T11:15:00",
+          "End": "2018-03-05T12:50:00",
+          "Subject": "Электив. Траектория 5 семестра. Углубленный курс английского языка, практическое занятие",
+          "TimeIntervalString": "11:15–12:50",
+          "DateWithTimeIntervalString": "5 марта 11:15–12:50",
+          "DisplayDateAndTimeIntervalString": "5 марта 11:15–12:50",
+          "LocationsDisplayText": "Университетский просп., д. 35, корп. А, 336",
+          "EducatorsDisplayText": "Лилиенталь Г. Г., старший преподаватель",
+          "HasEducators": true,
+          "IsCancelled": false,
+          "ContingentUnitName": "",
+          "DivisionAndCourse": "",
+          "IsAssigned": false,
+          "TimeWasChanged": false,
+          "LocationsWereChanged": false,
+          "EducatorsWereReassigned": false,
+          "ElectiveDisciplinesCount": 1,
+          "IsElective": false,
+          "HasTheSameTimeAsPreviousItem": false,
+          "ContingentUnitsDisplayTest": null,
+          "IsStudy": false,
+          "AllDay": false,
+          "WithinTheSameDay": false,
+          "EventLocations": [
+            {
+              "IsEmpty": false,
+              "DisplayName": "Университетский просп., д. 35, корп. А, 336",
+              "HasGeographicCoordinates": true,
+              "Latitude": 59.882168,
+              "Longitude": 29.830498,
+              "LatitudeValue": "59.882168",
+              "LongitudeValue": "29.830498",
+              "EducatorsDisplayText": "Лилиенталь Г. Г., старший преподаватель",
+              "HasEducators": true,
+              "EducatorIds": [
+                {
+                  "Item1": 5231,
+                  "Item2": "Лилиенталь Г. Г., старший преподаватель"
+                }
+              ]
+            }
+          ],
+          "EducatorIds": [
+            {
+              "Item1": 5231,
+              "Item2": "Лилиенталь Г. Г., старший преподаватель"
+            }
+          ]
+        },
+        {
+          "StudyEventsTimeTableKindCode": 0,
+          "Start": "2018-03-05T11:15:00",
+          "End": "2018-03-05T12:50:00",
+          "Subject": "Траектория 1 (0 – В2). Английский язык, практическое занятие",
+          "TimeIntervalString": "11:15–12:50",
+          "DateWithTimeIntervalString": "5 марта 11:15–12:50",
+          "DisplayDateAndTimeIntervalString": "5 марта 11:15–12:50",
+          "LocationsDisplayText": "Университетский просп., д. 35, корп. А, 345",
+          "EducatorsDisplayText": "Ильченко О. С., доцент",
+          "HasEducators": true,
+          "IsCancelled": false,
+          "ContingentUnitName": "",
+          "DivisionAndCourse": "",
+          "IsAssigned": false,
+          "TimeWasChanged": false,
+          "LocationsWereChanged": false,
+          "EducatorsWereReassigned": false,
+          "ElectiveDisciplinesCount": 1,
+          "IsElective": false,
+          "HasTheSameTimeAsPreviousItem": false,
+          "ContingentUnitsDisplayTest": null,
+          "IsStudy": false,
+          "AllDay": false,
+          "WithinTheSameDay": false,
+          "EventLocations": [
+            {
+              "IsEmpty": false,
+              "DisplayName": "Университетский просп., д. 35, корп. А, 345",
+              "HasGeographicCoordinates": true,
+              "Latitude": 59.882168,
+              "Longitude": 29.830498,
+              "LatitudeValue": "59.882168",
+              "LongitudeValue": "29.830498",
+              "EducatorsDisplayText": "Ильченко О. С., доцент",
+              "HasEducators": true,
+              "EducatorIds": [
+                {
+                  "Item1": 5435,
+                  "Item2": "Ильченко О. С., доцент"
+                }
+              ]
+            }
+          ],
+          "EducatorIds": [
+            {
+              "Item1": 5435,
+              "Item2": "Ильченко О. С., доцент"
+            }
+          ]
+        },
+        {
+          "StudyEventsTimeTableKindCode": 0,
+          "Start": "2018-03-05T11:15:00",
+          "End": "2018-03-05T12:50:00",
+          "Subject": "Траектория 2 (А2 – В2). Английский язык, практическое занятие",
+          "TimeIntervalString": "11:15–12:50",
+          "DateWithTimeIntervalString": "5 марта 11:15–12:50",
+          "DisplayDateAndTimeIntervalString": "5 марта 11:15–12:50",
+          "LocationsDisplayText": "Университетский просп., д. 35, корп. А, 333",
+          "EducatorsDisplayText": "Малькевич Т. А., старший преподаватель",
+          "HasEducators": true,
+          "IsCancelled": false,
+          "ContingentUnitName": "",
+          "DivisionAndCourse": "",
+          "IsAssigned": false,
+          "TimeWasChanged": false,
+          "LocationsWereChanged": false,
+          "EducatorsWereReassigned": false,
+          "ElectiveDisciplinesCount": 1,
+          "IsElective": false,
+          "HasTheSameTimeAsPreviousItem": false,
+          "ContingentUnitsDisplayTest": null,
+          "IsStudy": false,
+          "AllDay": false,
+          "WithinTheSameDay": false,
+          "EventLocations": [
+            {
+              "IsEmpty": false,
+              "DisplayName": "Университетский просп., д. 35, корп. А, 333",
+              "HasGeographicCoordinates": true,
+              "Latitude": 59.882168,
+              "Longitude": 29.830498,
+              "LatitudeValue": "59.882168",
+              "LongitudeValue": "29.830498",
+              "EducatorsDisplayText": "Малькевич Т. А., старший преподаватель",
+              "HasEducators": true,
+              "EducatorIds": [
+                {
+                  "Item1": 3799,
+                  "Item2": "Малькевич Т. А., старший преподаватель"
+                }
+              ]
+            }
+          ],
+          "EducatorIds": [
+            {
+              "Item1": 3799,
+              "Item2": "Малькевич Т. А., старший преподаватель"
+            }
+          ]
+        },
+        {
+          "StudyEventsTimeTableKindCode": 0,
+          "Start": "2018-03-05T13:40:00",
+          "End": "2018-03-05T15:15:00",
+          "Subject": "Практикум на ЭВМ (численные методы), практическое занятие",
+          "TimeIntervalString": "13:40–15:15",
+          "DateWithTimeIntervalString": "5 марта 13:40–15:15",
+          "DisplayDateAndTimeIntervalString": "5 марта 13:40–15:15",
+          "LocationsDisplayText": "Университетский просп., д. 35, корп. А, 430",
+          "EducatorsDisplayText": "Фирюлина О. С., старший преподаватель",
+          "HasEducators": true,
+          "IsCancelled": false,
+          "ContingentUnitName": "",
+          "DivisionAndCourse": "",
+          "IsAssigned": false,
+          "TimeWasChanged": false,
+          "LocationsWereChanged": false,
+          "EducatorsWereReassigned": false,
+          "ElectiveDisciplinesCount": 1,
+          "IsElective": false,
+          "HasTheSameTimeAsPreviousItem": false,
+          "ContingentUnitsDisplayTest": null,
+          "IsStudy": false,
+          "AllDay": false,
+          "WithinTheSameDay": false,
+          "EventLocations": [
+            {
+              "IsEmpty": false,
+              "DisplayName": "Университетский просп., д. 35, корп. А, 430",
+              "HasGeographicCoordinates": true,
+              "Latitude": 59.882168,
+              "Longitude": 29.830498,
+              "LatitudeValue": "59.882168",
+              "LongitudeValue": "29.830498",
+              "EducatorsDisplayText": "Фирюлина О. С., старший преподаватель",
+              "HasEducators": true,
+              "EducatorIds": [
+                {
+                  "Item1": 1465,
+                  "Item2": "Фирюлина О. С., старший преподаватель"
+                }
+              ]
+            }
+          ],
+          "EducatorIds": [
+            {
+              "Item1": 1465,
+              "Item2": "Фирюлина О. С., старший преподаватель"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Day": "2018-03-06T00:00:00",
+      "DayString": "вторник, 6 марта",
+      "DayStudyEvents": [
+        {
+          "StudyEventsTimeTableKindCode": 0,
+          "Start": "2018-03-06T09:30:00",
+          "End": "2018-03-06T11:05:00",
+          "Subject": "Практикум на ЭВМ (математическая статистика), практическое занятие",
+          "TimeIntervalString": "09:30–11:05",
+          "DateWithTimeIntervalString": "6 марта 09:30–11:05",
+          "DisplayDateAndTimeIntervalString": "6 марта 09:30–11:05",
+          "LocationsDisplayText": "Университетский просп., д. 35, корп. А, 280",
+          "EducatorsDisplayText": "Булгакова М. А., ассистент",
+          "HasEducators": true,
+          "IsCancelled": false,
+          "ContingentUnitName": "",
+          "DivisionAndCourse": "",
+          "IsAssigned": false,
+          "TimeWasChanged": false,
+          "LocationsWereChanged": false,
+          "EducatorsWereReassigned": false,
+          "ElectiveDisciplinesCount": 1,
+          "IsElective": false,
+          "HasTheSameTimeAsPreviousItem": false,
+          "ContingentUnitsDisplayTest": null,
+          "IsStudy": false,
+          "AllDay": false,
+          "WithinTheSameDay": false,
+          "EventLocations": [
+            {
+              "IsEmpty": false,
+              "DisplayName": "Университетский просп., д. 35, корп. А, 280",
+              "HasGeographicCoordinates": true,
+              "Latitude": 59.882168,
+              "Longitude": 29.830498,
+              "LatitudeValue": "59.882168",
+              "LongitudeValue": "29.830498",
+              "EducatorsDisplayText": "Булгакова М. А., ассистент",
+              "HasEducators": true,
+              "EducatorIds": [
+                {
+                  "Item1": 12579,
+                  "Item2": "Булгакова М. А., ассистент"
+                }
+              ]
+            }
+          ],
+          "EducatorIds": [
+            {
+              "Item1": 12579,
+              "Item2": "Булгакова М. А., ассистент"
+            }
+          ]
+        },
+        {
+          "StudyEventsTimeTableKindCode": 0,
+          "Start": "2018-03-06T11:15:00",
+          "End": "2018-03-06T12:50:00",
+          "Subject": "Теория вероятностей и математическая статистика, лекция",
+          "TimeIntervalString": "11:15–12:50",
+          "DateWithTimeIntervalString": "6 марта 11:15–12:50",
+          "DisplayDateAndTimeIntervalString": "6 марта 11:15–12:50",
+          "LocationsDisplayText": "Университетский просп., д. 35, корп. Д, 210Д",
+          "EducatorsDisplayText": "Буре В. М., профессор",
+          "HasEducators": true,
+          "IsCancelled": false,
+          "ContingentUnitName": "",
+          "DivisionAndCourse": "",
+          "IsAssigned": false,
+          "TimeWasChanged": false,
+          "LocationsWereChanged": true,
+          "EducatorsWereReassigned": true,
+          "ElectiveDisciplinesCount": 1,
+          "IsElective": false,
+          "HasTheSameTimeAsPreviousItem": false,
+          "ContingentUnitsDisplayTest": null,
+          "IsStudy": false,
+          "AllDay": false,
+          "WithinTheSameDay": false,
+          "EventLocations": [
+            {
+              "IsEmpty": false,
+              "DisplayName": "Университетский просп., д. 35, корп. Д, 210Д",
+              "HasGeographicCoordinates": true,
+              "Latitude": 59.882168,
+              "Longitude": 29.830498,
+              "LatitudeValue": "59.882168",
+              "LongitudeValue": "29.830498",
+              "EducatorsDisplayText": "Буре В. М., профессор",
+              "HasEducators": true,
+              "EducatorIds": [
+                {
+                  "Item1": 1325,
+                  "Item2": "Буре В. М., профессор"
+                }
+              ]
+            }
+          ],
+          "EducatorIds": [
+            {
+              "Item1": 1325,
+              "Item2": "Буре В. М., профессор"
+            }
+          ]
+        },
+        {
+          "StudyEventsTimeTableKindCode": 0,
+          "Start": "2018-03-06T13:40:00",
+          "End": "2018-03-06T15:15:00",
+          "Subject": "Функциональный анализ, лекция",
+          "TimeIntervalString": "13:40–15:15",
+          "DateWithTimeIntervalString": "6 марта 13:40–15:15",
+          "DisplayDateAndTimeIntervalString": "6 марта 13:40–15:15",
+          "LocationsDisplayText": "Университетский просп., д. 35, корп. Д, 204Д",
+          "EducatorsDisplayText": "Скопина М. А., профессор",
+          "HasEducators": true,
+          "IsCancelled": false,
+          "ContingentUnitName": "",
+          "DivisionAndCourse": "",
+          "IsAssigned": false,
+          "TimeWasChanged": false,
+          "LocationsWereChanged": false,
+          "EducatorsWereReassigned": false,
+          "ElectiveDisciplinesCount": 1,
+          "IsElective": false,
+          "HasTheSameTimeAsPreviousItem": false,
+          "ContingentUnitsDisplayTest": null,
+          "IsStudy": false,
+          "AllDay": false,
+          "WithinTheSameDay": false,
+          "EventLocations": [
+            {
+              "IsEmpty": false,
+              "DisplayName": "Университетский просп., д. 35, корп. Д, 204Д",
+              "HasGeographicCoordinates": true,
+              "Latitude": 59.882168,
+              "Longitude": 29.830498,
+              "LatitudeValue": "59.882168",
+              "LongitudeValue": "29.830498",
+              "EducatorsDisplayText": "Скопина М. А., профессор",
+              "HasEducators": true,
+              "EducatorIds": [
+                {
+                  "Item1": 1445,
+                  "Item2": "Скопина М. А., профессор"
+                }
+              ]
+            }
+          ],
+          "EducatorIds": [
+            {
+              "Item1": 1445,
+              "Item2": "Скопина М. А., профессор"
+            }
+          ]
+        },
+        {
+          "StudyEventsTimeTableKindCode": 0,
+          "Start": "2018-03-06T15:25:00",
+          "End": "2018-03-06T17:00:00",
+          "Subject": "Теория вероятностей и математическая статистика, практическое занятие",
+          "TimeIntervalString": "15:25–17:00",
+          "DateWithTimeIntervalString": "6 марта 15:25–17:00",
+          "DisplayDateAndTimeIntervalString": "6 марта 15:25–17:00",
+          "LocationsDisplayText": "Университетский просп., д. 35, корп. Е, 403/1Е",
+          "EducatorsDisplayText": "Акимова А. Н., ассистент",
+          "HasEducators": true,
+          "IsCancelled": false,
+          "ContingentUnitName": "",
+          "DivisionAndCourse": "",
+          "IsAssigned": false,
+          "TimeWasChanged": false,
+          "LocationsWereChanged": false,
+          "EducatorsWereReassigned": false,
+          "ElectiveDisciplinesCount": 1,
+          "IsElective": false,
+          "HasTheSameTimeAsPreviousItem": false,
+          "ContingentUnitsDisplayTest": null,
+          "IsStudy": false,
+          "AllDay": false,
+          "WithinTheSameDay": false,
+          "EventLocations": [
+            {
+              "IsEmpty": false,
+              "DisplayName": "Университетский просп., д. 35, корп. Е, 403/1Е",
+              "HasGeographicCoordinates": true,
+              "Latitude": 59.882168,
+              "Longitude": 29.830498,
+              "LatitudeValue": "59.882168",
+              "LongitudeValue": "29.830498",
+              "EducatorsDisplayText": "Акимова А. Н., ассистент",
+              "HasEducators": true,
+              "EducatorIds": [
+                {
+                  "Item1": 1311,
+                  "Item2": "Акимова А. Н., ассистент"
+                }
+              ]
+            }
+          ],
+          "EducatorIds": [
+            {
+              "Item1": 1311,
+              "Item2": "Акимова А. Н., ассистент"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Day": "2018-03-07T00:00:00",
+      "DayString": "среда, 7 марта",
+      "DayStudyEvents": [
+        {
+          "StudyEventsTimeTableKindCode": 0,
+          "Start": "2018-03-07T11:00:00",
+          "End": "2018-03-07T12:35:00",
+          "Subject": "Электив. Траектория 5 семестра. Немецкий язык, практическое занятие",
+          "TimeIntervalString": "11:00–12:35",
+          "DateWithTimeIntervalString": "7 марта 11:00–12:35",
+          "DisplayDateAndTimeIntervalString": "7 марта 11:00–12:35",
+          "LocationsDisplayText": "Университетский просп., д. 35, корп. А, 471",
+          "EducatorsDisplayText": "Смирнов В. А., старший преподаватель",
+          "HasEducators": true,
+          "IsCancelled": false,
+          "ContingentUnitName": "",
+          "DivisionAndCourse": "",
+          "IsAssigned": false,
+          "TimeWasChanged": false,
+          "LocationsWereChanged": false,
+          "EducatorsWereReassigned": false,
+          "ElectiveDisciplinesCount": 1,
+          "IsElective": false,
+          "HasTheSameTimeAsPreviousItem": false,
+          "ContingentUnitsDisplayTest": null,
+          "IsStudy": false,
+          "AllDay": false,
+          "WithinTheSameDay": false,
+          "EventLocations": [
+            {
+              "IsEmpty": false,
+              "DisplayName": "Университетский просп., д. 35, корп. А, 471",
+              "HasGeographicCoordinates": true,
+              "Latitude": 59.882168,
+              "Longitude": 29.830498,
+              "LatitudeValue": "59.882168",
+              "LongitudeValue": "29.830498",
+              "EducatorsDisplayText": "Смирнов В. А., старший преподаватель",
+              "HasEducators": true,
+              "EducatorIds": [
+                {
+                  "Item1": 4066,
+                  "Item2": "Смирнов В. А., старший преподаватель"
+                }
+              ]
+            }
+          ],
+          "EducatorIds": [
+            {
+              "Item1": 4066,
+              "Item2": "Смирнов В. А., старший преподаватель"
+            }
+          ]
+        },
+        {
+          "StudyEventsTimeTableKindCode": 0,
+          "Start": "2018-03-07T11:15:00",
+          "End": "2018-03-07T12:50:00",
+          "Subject": "Электив. Траектория 5 семестра. Углубленный курс английского языка, практическое занятие",
+          "TimeIntervalString": "11:15–12:50",
+          "DateWithTimeIntervalString": "7 марта 11:15–12:50",
+          "DisplayDateAndTimeIntervalString": "7 марта 11:15–12:50",
+          "LocationsDisplayText": "Университетский просп., д. 35, корп. Д, 131Д",
+          "EducatorsDisplayText": "Соболев И. А., ассистент",
+          "HasEducators": true,
+          "IsCancelled": false,
+          "ContingentUnitName": "",
+          "DivisionAndCourse": "",
+          "IsAssigned": false,
+          "TimeWasChanged": false,
+          "LocationsWereChanged": false,
+          "EducatorsWereReassigned": false,
+          "ElectiveDisciplinesCount": 1,
+          "IsElective": false,
+          "HasTheSameTimeAsPreviousItem": false,
+          "ContingentUnitsDisplayTest": null,
+          "IsStudy": false,
+          "AllDay": false,
+          "WithinTheSameDay": false,
+          "EventLocations": [
+            {
+              "IsEmpty": false,
+              "DisplayName": "Университетский просп., д. 35, корп. Д, 131Д",
+              "HasGeographicCoordinates": true,
+              "Latitude": 59.882168,
+              "Longitude": 29.830498,
+              "LatitudeValue": "59.882168",
+              "LongitudeValue": "29.830498",
+              "EducatorsDisplayText": "Соболев И. А., ассистент",
+              "HasEducators": true,
+              "EducatorIds": [
+                {
+                  "Item1": -1,
+                  "Item2": "Соболев И. А., ассистент"
+                }
+              ]
+            }
+          ],
+          "EducatorIds": [
+            {
+              "Item1": -1,
+              "Item2": "Соболев И. А., ассистент"
+            }
+          ]
+        },
+        {
+          "StudyEventsTimeTableKindCode": 0,
+          "Start": "2018-03-07T11:15:00",
+          "End": "2018-03-07T12:50:00",
+          "Subject": "Траектория 1 (0 – В2). Английский язык, практическое занятие",
+          "TimeIntervalString": "11:15–12:50",
+          "DateWithTimeIntervalString": "7 марта 11:15–12:50",
+          "DisplayDateAndTimeIntervalString": "7 марта 11:15–12:50",
+          "LocationsDisplayText": "Университетский просп., д. 35, корп. А, 336",
+          "EducatorsDisplayText": "Ильченко О. С., доцент",
+          "HasEducators": true,
+          "IsCancelled": false,
+          "ContingentUnitName": "",
+          "DivisionAndCourse": "",
+          "IsAssigned": false,
+          "TimeWasChanged": false,
+          "LocationsWereChanged": false,
+          "EducatorsWereReassigned": false,
+          "ElectiveDisciplinesCount": 1,
+          "IsElective": false,
+          "HasTheSameTimeAsPreviousItem": false,
+          "ContingentUnitsDisplayTest": null,
+          "IsStudy": false,
+          "AllDay": false,
+          "WithinTheSameDay": false,
+          "EventLocations": [
+            {
+              "IsEmpty": false,
+              "DisplayName": "Университетский просп., д. 35, корп. А, 336",
+              "HasGeographicCoordinates": true,
+              "Latitude": 59.882168,
+              "Longitude": 29.830498,
+              "LatitudeValue": "59.882168",
+              "LongitudeValue": "29.830498",
+              "EducatorsDisplayText": "Ильченко О. С., доцент",
+              "HasEducators": true,
+              "EducatorIds": [
+                {
+                  "Item1": 5435,
+                  "Item2": "Ильченко О. С., доцент"
+                }
+              ]
+            }
+          ],
+          "EducatorIds": [
+            {
+              "Item1": 5435,
+              "Item2": "Ильченко О. С., доцент"
+            }
+          ]
+        },
+        {
+          "StudyEventsTimeTableKindCode": 0,
+          "Start": "2018-03-07T11:15:00",
+          "End": "2018-03-07T12:50:00",
+          "Subject": "Траектория 2 (А2 – В2). Английский язык, практическое занятие",
+          "TimeIntervalString": "11:15–12:50",
+          "DateWithTimeIntervalString": "7 марта 11:15–12:50",
+          "DisplayDateAndTimeIntervalString": "7 марта 11:15–12:50",
+          "LocationsDisplayText": "Университетский просп., д. 35, корп. А, 240",
+          "EducatorsDisplayText": "Павилайнен Ю. В., ассистент",
+          "HasEducators": true,
+          "IsCancelled": false,
+          "ContingentUnitName": "",
+          "DivisionAndCourse": "",
+          "IsAssigned": false,
+          "TimeWasChanged": false,
+          "LocationsWereChanged": false,
+          "EducatorsWereReassigned": false,
+          "ElectiveDisciplinesCount": 1,
+          "IsElective": false,
+          "HasTheSameTimeAsPreviousItem": false,
+          "ContingentUnitsDisplayTest": null,
+          "IsStudy": false,
+          "AllDay": false,
+          "WithinTheSameDay": false,
+          "EventLocations": [
+            {
+              "IsEmpty": false,
+              "DisplayName": "Университетский просп., д. 35, корп. А, 240",
+              "HasGeographicCoordinates": true,
+              "Latitude": 59.882168,
+              "Longitude": 29.830498,
+              "LatitudeValue": "59.882168",
+              "LongitudeValue": "29.830498",
+              "EducatorsDisplayText": "Павилайнен Ю. В., ассистент",
+              "HasEducators": true,
+              "EducatorIds": [
+                {
+                  "Item1": 12582,
+                  "Item2": "Павилайнен Ю. В., ассистент"
+                }
+              ]
+            }
+          ],
+          "EducatorIds": [
+            {
+              "Item1": 12582,
+              "Item2": "Павилайнен Ю. В., ассистент"
+            }
+          ]
+        },
+        {
+          "StudyEventsTimeTableKindCode": 0,
+          "Start": "2018-03-07T13:40:00",
+          "End": "2018-03-07T15:15:00",
+          "Subject": "Электив. Траектория 5 семестра. Немецкий язык, практическое занятие",
+          "TimeIntervalString": "13:40–15:15",
+          "DateWithTimeIntervalString": "7 марта 13:40–15:15",
+          "DisplayDateAndTimeIntervalString": "7 марта 13:40–15:15",
+          "LocationsDisplayText": "Университетский просп., д. 35, корп. А, 336",
+          "EducatorsDisplayText": "Смирнов В. А., старший преподаватель",
+          "HasEducators": true,
+          "IsCancelled": false,
+          "ContingentUnitName": "",
+          "DivisionAndCourse": "",
+          "IsAssigned": false,
+          "TimeWasChanged": false,
+          "LocationsWereChanged": false,
+          "EducatorsWereReassigned": false,
+          "ElectiveDisciplinesCount": 1,
+          "IsElective": false,
+          "HasTheSameTimeAsPreviousItem": false,
+          "ContingentUnitsDisplayTest": null,
+          "IsStudy": false,
+          "AllDay": false,
+          "WithinTheSameDay": false,
+          "EventLocations": [
+            {
+              "IsEmpty": false,
+              "DisplayName": "Университетский просп., д. 35, корп. А, 336",
+              "HasGeographicCoordinates": true,
+              "Latitude": 59.882168,
+              "Longitude": 29.830498,
+              "LatitudeValue": "59.882168",
+              "LongitudeValue": "29.830498",
+              "EducatorsDisplayText": "Смирнов В. А., старший преподаватель",
+              "HasEducators": true,
+              "EducatorIds": [
+                {
+                  "Item1": 4066,
+                  "Item2": "Смирнов В. А., старший преподаватель"
+                }
+              ]
+            }
+          ],
+          "EducatorIds": [
+            {
+              "Item1": 4066,
+              "Item2": "Смирнов В. А., старший преподаватель"
+            }
+          ]
+        },
+        {
+          "StudyEventsTimeTableKindCode": 0,
+          "Start": "2018-03-07T13:40:00",
+          "End": "2018-03-07T15:15:00",
+          "Subject": "Траектория 1 (0 – В2). Английский язык, практическое занятие",
+          "TimeIntervalString": "13:40–15:15",
+          "DateWithTimeIntervalString": "7 марта 13:40–15:15",
+          "DisplayDateAndTimeIntervalString": "7 марта 13:40–15:15",
+          "LocationsDisplayText": "Университетский просп., д. 35, корп. А, 353",
+          "EducatorsDisplayText": "Ильченко О. С., доцент",
+          "HasEducators": true,
+          "IsCancelled": false,
+          "ContingentUnitName": "",
+          "DivisionAndCourse": "",
+          "IsAssigned": false,
+          "TimeWasChanged": false,
+          "LocationsWereChanged": false,
+          "EducatorsWereReassigned": false,
+          "ElectiveDisciplinesCount": 1,
+          "IsElective": false,
+          "HasTheSameTimeAsPreviousItem": false,
+          "ContingentUnitsDisplayTest": null,
+          "IsStudy": false,
+          "AllDay": false,
+          "WithinTheSameDay": false,
+          "EventLocations": [
+            {
+              "IsEmpty": false,
+              "DisplayName": "Университетский просп., д. 35, корп. А, 353",
+              "HasGeographicCoordinates": true,
+              "Latitude": 59.882168,
+              "Longitude": 29.830498,
+              "LatitudeValue": "59.882168",
+              "LongitudeValue": "29.830498",
+              "EducatorsDisplayText": "Ильченко О. С., доцент",
+              "HasEducators": true,
+              "EducatorIds": [
+                {
+                  "Item1": 5435,
+                  "Item2": "Ильченко О. С., доцент"
+                }
+              ]
+            }
+          ],
+          "EducatorIds": [
+            {
+              "Item1": 5435,
+              "Item2": "Ильченко О. С., доцент"
+            }
+          ]
+        },
+        {
+          "StudyEventsTimeTableKindCode": 0,
+          "Start": "2018-03-07T13:40:00",
+          "End": "2018-03-07T15:15:00",
+          "Subject": "Траектория 2 (А2 – В2). Английский язык, практическое занятие",
+          "TimeIntervalString": "13:40–15:15",
+          "DateWithTimeIntervalString": "7 марта 13:40–15:15",
+          "DisplayDateAndTimeIntervalString": "7 марта 13:40–15:15",
+          "LocationsDisplayText": "Университетский просп., д. 35, корп. А, 240",
+          "EducatorsDisplayText": "Ильченко О. С., доцент",
+          "HasEducators": true,
+          "IsCancelled": false,
+          "ContingentUnitName": "",
+          "DivisionAndCourse": "",
+          "IsAssigned": false,
+          "TimeWasChanged": false,
+          "LocationsWereChanged": false,
+          "EducatorsWereReassigned": false,
+          "ElectiveDisciplinesCount": 1,
+          "IsElective": false,
+          "HasTheSameTimeAsPreviousItem": false,
+          "ContingentUnitsDisplayTest": null,
+          "IsStudy": false,
+          "AllDay": false,
+          "WithinTheSameDay": false,
+          "EventLocations": [
+            {
+              "IsEmpty": false,
+              "DisplayName": "Университетский просп., д. 35, корп. А, 240",
+              "HasGeographicCoordinates": true,
+              "Latitude": 59.882168,
+              "Longitude": 29.830498,
+              "LatitudeValue": "59.882168",
+              "LongitudeValue": "29.830498",
+              "EducatorsDisplayText": "Ильченко О. С., доцент",
+              "HasEducators": true,
+              "EducatorIds": [
+                {
+                  "Item1": 5435,
+                  "Item2": "Ильченко О. С., доцент"
+                }
+              ]
+            }
+          ],
+          "EducatorIds": [
+            {
+              "Item1": 5435,
+              "Item2": "Ильченко О. С., доцент"
+            }
+          ]
+        },
+        {
+          "StudyEventsTimeTableKindCode": 0,
+          "Start": "2018-03-07T15:25:00",
+          "End": "2018-03-07T17:00:00",
+          "Subject": "Архитектура вычислительных систем, лекция",
+          "TimeIntervalString": "15:25–17:00",
+          "DateWithTimeIntervalString": "7 марта 15:25–17:00",
+          "DisplayDateAndTimeIntervalString": "7 марта 15:25–17:00",
+          "LocationsDisplayText": "Университетский просп., д. 35, корп. Д, 212Д",
+          "EducatorsDisplayText": "Шиманская Г. С., ассистент",
+          "HasEducators": true,
+          "IsCancelled": false,
+          "ContingentUnitName": "",
+          "DivisionAndCourse": "",
+          "IsAssigned": false,
+          "TimeWasChanged": false,
+          "LocationsWereChanged": false,
+          "EducatorsWereReassigned": false,
+          "ElectiveDisciplinesCount": 1,
+          "IsElective": false,
+          "HasTheSameTimeAsPreviousItem": false,
+          "ContingentUnitsDisplayTest": null,
+          "IsStudy": false,
+          "AllDay": false,
+          "WithinTheSameDay": false,
+          "EventLocations": [
+            {
+              "IsEmpty": false,
+              "DisplayName": "Университетский просп., д. 35, корп. Д, 212Д",
+              "HasGeographicCoordinates": true,
+              "Latitude": 59.882168,
+              "Longitude": 29.830498,
+              "LatitudeValue": "59.882168",
+              "LongitudeValue": "29.830498",
+              "EducatorsDisplayText": "Шиманская Г. С., ассистент",
+              "HasEducators": true,
+              "EducatorIds": [
+                {
+                  "Item1": 6119,
+                  "Item2": "Шиманская Г. С., ассистент"
+                }
+              ]
+            }
+          ],
+          "EducatorIds": [
+            {
+              "Item1": 6119,
+              "Item2": "Шиманская Г. С., ассистент"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Day": "2018-03-09T00:00:00",
+      "DayString": "пятница, 9 марта",
+      "DayStudyEvents": [
+        {
+          "StudyEventsTimeTableKindCode": 0,
+          "Start": "2018-03-09T09:30:00",
+          "End": "2018-03-09T11:05:00",
+          "Subject": "Аналитическая динамика управляемых систем, лекция",
+          "TimeIntervalString": "09:30–11:05",
+          "DateWithTimeIntervalString": "9 марта 09:30–11:05",
+          "DisplayDateAndTimeIntervalString": "9 марта 09:30–11:05",
+          "LocationsDisplayText": "Университетский просп., д. 35, корп. Д, 202Д",
+          "EducatorsDisplayText": "Потоцкая И. Ю., доцент",
+          "HasEducators": true,
+          "IsCancelled": false,
+          "ContingentUnitName": "",
+          "DivisionAndCourse": "",
+          "IsAssigned": false,
+          "TimeWasChanged": false,
+          "LocationsWereChanged": false,
+          "EducatorsWereReassigned": false,
+          "ElectiveDisciplinesCount": 1,
+          "IsElective": false,
+          "HasTheSameTimeAsPreviousItem": false,
+          "ContingentUnitsDisplayTest": null,
+          "IsStudy": false,
+          "AllDay": false,
+          "WithinTheSameDay": false,
+          "EventLocations": [
+            {
+              "IsEmpty": false,
+              "DisplayName": "Университетский просп., д. 35, корп. Д, 202Д",
+              "HasGeographicCoordinates": true,
+              "Latitude": 59.882168,
+              "Longitude": 29.830498,
+              "LatitudeValue": "59.882168",
+              "LongitudeValue": "29.830498",
+              "EducatorsDisplayText": "Потоцкая И. Ю., доцент",
+              "HasEducators": true,
+              "EducatorIds": [
+                {
+                  "Item1": 1431,
+                  "Item2": "Потоцкая И. Ю., доцент"
+                }
+              ]
+            }
+          ],
+          "EducatorIds": [
+            {
+              "Item1": 1431,
+              "Item2": "Потоцкая И. Ю., доцент"
+            }
+          ]
+        },
+        {
+          "StudyEventsTimeTableKindCode": 0,
+          "Start": "2018-03-09T11:15:00",
+          "End": "2018-03-09T12:50:00",
+          "Subject": "Аналитическая динамика управляемых систем, практическое занятие",
+          "TimeIntervalString": "11:15–12:50",
+          "DateWithTimeIntervalString": "9 марта 11:15–12:50",
+          "DisplayDateAndTimeIntervalString": "9 марта 11:15–12:50",
+          "LocationsDisplayText": "Университетский просп., д. 35, корп. Д, 131Д",
+          "EducatorsDisplayText": "Потоцкая И. Ю., доцент",
+          "HasEducators": true,
+          "IsCancelled": false,
+          "ContingentUnitName": "",
+          "DivisionAndCourse": "",
+          "IsAssigned": false,
+          "TimeWasChanged": false,
+          "LocationsWereChanged": false,
+          "EducatorsWereReassigned": false,
+          "ElectiveDisciplinesCount": 1,
+          "IsElective": false,
+          "HasTheSameTimeAsPreviousItem": false,
+          "ContingentUnitsDisplayTest": null,
+          "IsStudy": false,
+          "AllDay": false,
+          "WithinTheSameDay": false,
+          "EventLocations": [
+            {
+              "IsEmpty": false,
+              "DisplayName": "Университетский просп., д. 35, корп. Д, 131Д",
+              "HasGeographicCoordinates": true,
+              "Latitude": 59.882168,
+              "Longitude": 29.830498,
+              "LatitudeValue": "59.882168",
+              "LongitudeValue": "29.830498",
+              "EducatorsDisplayText": "Потоцкая И. Ю., доцент",
+              "HasEducators": true,
+              "EducatorIds": [
+                {
+                  "Item1": 1431,
+                  "Item2": "Потоцкая И. Ю., доцент"
+                }
+              ]
+            }
+          ],
+          "EducatorIds": [
+            {
+              "Item1": 1431,
+              "Item2": "Потоцкая И. Ю., доцент"
+            }
+          ]
+        },
+        {
+          "StudyEventsTimeTableKindCode": 0,
+          "Start": "2018-03-09T13:40:00",
+          "End": "2018-03-09T15:15:00",
+          "Subject": "Уравнения математической физики, лекция",
+          "TimeIntervalString": "13:40–15:15",
+          "DateWithTimeIntervalString": "9 марта 13:40–15:15",
+          "DisplayDateAndTimeIntervalString": "9 марта 13:40–15:15",
+          "LocationsDisplayText": "Университетский просп., д. 35, корп. Д, 131Д",
+          "EducatorsDisplayText": "Егоров А. В., доцент",
+          "HasEducators": true,
+          "IsCancelled": false,
+          "ContingentUnitName": "",
+          "DivisionAndCourse": "",
+          "IsAssigned": false,
+          "TimeWasChanged": false,
+          "LocationsWereChanged": false,
+          "EducatorsWereReassigned": false,
+          "ElectiveDisciplinesCount": 1,
+          "IsElective": false,
+          "HasTheSameTimeAsPreviousItem": false,
+          "ContingentUnitsDisplayTest": null,
+          "IsStudy": false,
+          "AllDay": false,
+          "WithinTheSameDay": false,
+          "EventLocations": [
+            {
+              "IsEmpty": false,
+              "DisplayName": "Университетский просп., д. 35, корп. Д, 131Д",
+              "HasGeographicCoordinates": true,
+              "Latitude": 59.882168,
+              "Longitude": 29.830498,
+              "LatitudeValue": "59.882168",
+              "LongitudeValue": "29.830498",
+              "EducatorsDisplayText": "Егоров А. В., доцент",
+              "HasEducators": true,
+              "EducatorIds": [
+                {
+                  "Item1": 5289,
+                  "Item2": "Егоров А. В., доцент"
+                }
+              ]
+            }
+          ],
+          "EducatorIds": [
+            {
+              "Item1": 5289,
+              "Item2": "Егоров А. В., доцент"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Day": "2018-03-10T00:00:00",
+      "DayString": "суббота, 10 марта",
+      "DayStudyEvents": [
+        {
+          "StudyEventsTimeTableKindCode": 0,
+          "Start": "2018-03-10T09:30:00",
+          "End": "2018-03-10T11:05:00",
+          "Subject": "Методы теории функций комплексной переменной в механике и физике, лекция",
+          "TimeIntervalString": "09:30–11:05",
+          "DateWithTimeIntervalString": "10 марта 09:30–11:05",
+          "DisplayDateAndTimeIntervalString": "10 марта 09:30–11:05",
+          "LocationsDisplayText": "Университетский просп., д. 35, корп. Е, 207/2Е",
+          "EducatorsDisplayText": "Малькова Ю. В., доцент",
+          "HasEducators": true,
+          "IsCancelled": false,
+          "ContingentUnitName": "",
+          "DivisionAndCourse": "",
+          "IsAssigned": false,
+          "TimeWasChanged": false,
+          "LocationsWereChanged": false,
+          "EducatorsWereReassigned": false,
+          "ElectiveDisciplinesCount": 1,
+          "IsElective": false,
+          "HasTheSameTimeAsPreviousItem": false,
+          "ContingentUnitsDisplayTest": null,
+          "IsStudy": false,
+          "AllDay": false,
+          "WithinTheSameDay": false,
+          "EventLocations": [
+            {
+              "IsEmpty": false,
+              "DisplayName": "Университетский просп., д. 35, корп. Е, 207/2Е",
+              "HasGeographicCoordinates": true,
+              "Latitude": 59.882168,
+              "Longitude": 29.830498,
+              "LatitudeValue": "59.882168",
+              "LongitudeValue": "29.830498",
+              "EducatorsDisplayText": "Малькова Ю. В., доцент",
+              "HasEducators": true,
+              "EducatorIds": [
+                {
+                  "Item1": 1399,
+                  "Item2": "Малькова Ю. В., доцент"
+                }
+              ]
+            }
+          ],
+          "EducatorIds": [
+            {
+              "Item1": 1399,
+              "Item2": "Малькова Ю. В., доцент"
+            }
+          ]
+        },
+        {
+          "StudyEventsTimeTableKindCode": 0,
+          "Start": "2018-03-10T11:15:00",
+          "End": "2018-03-10T12:50:00",
+          "Subject": "Операционные системы высокопроизводительных вычислительных систем, лекция",
+          "TimeIntervalString": "11:15–12:50",
+          "DateWithTimeIntervalString": "10 марта 11:15–12:50",
+          "DisplayDateAndTimeIntervalString": "10 марта 11:15–12:50",
+          "LocationsDisplayText": "Университетский просп., д. 35, корп. А, 439",
+          "EducatorsDisplayText": "Клемешев В. А., доцент",
+          "HasEducators": true,
+          "IsCancelled": false,
+          "ContingentUnitName": "",
+          "DivisionAndCourse": "",
+          "IsAssigned": false,
+          "TimeWasChanged": false,
+          "LocationsWereChanged": false,
+          "EducatorsWereReassigned": false,
+          "ElectiveDisciplinesCount": 1,
+          "IsElective": false,
+          "HasTheSameTimeAsPreviousItem": false,
+          "ContingentUnitsDisplayTest": null,
+          "IsStudy": false,
+          "AllDay": false,
+          "WithinTheSameDay": false,
+          "EventLocations": [
+            {
+              "IsEmpty": false,
+              "DisplayName": "Университетский просп., д. 35, корп. А, 439",
+              "HasGeographicCoordinates": true,
+              "Latitude": 59.882168,
+              "Longitude": 29.830498,
+              "LatitudeValue": "59.882168",
+              "LongitudeValue": "29.830498",
+              "EducatorsDisplayText": "Клемешев В. А., доцент",
+              "HasEducators": true,
+              "EducatorIds": [
+                {
+                  "Item1": 1372,
+                  "Item2": "Клемешев В. А., доцент"
+                }
+              ]
+            }
+          ],
+          "EducatorIds": [
+            {
+              "Item1": 1372,
+              "Item2": "Клемешев В. А., доцент"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
