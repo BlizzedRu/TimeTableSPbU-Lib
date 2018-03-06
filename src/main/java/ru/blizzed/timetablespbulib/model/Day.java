@@ -1,8 +1,8 @@
 package ru.blizzed.timetablespbulib.model;
 
-import java.util.List;
-
 import com.google.gson.annotations.SerializedName;
+
+import java.util.List;
 
 public class Day {
 
@@ -12,7 +12,7 @@ public class Day {
     @SerializedName("DayString")
     private String dayString;
 
-    @SerializedName("DayEvents")
+    @SerializedName(value = "DayEvents", alternate = "DayStudyEvents")
     private List<Event> dayEvents;
 
     public String getDay() {
