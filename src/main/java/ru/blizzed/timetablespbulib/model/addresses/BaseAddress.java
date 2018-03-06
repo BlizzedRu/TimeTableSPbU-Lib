@@ -8,7 +8,7 @@ public class BaseAddress {
     private String oid;
 
     @SerializedName("DisplayName1")
-    private String displayName1;
+    private String displayName;
 
     @SerializedName("wantingEquipment")
     private String wantingEquipment;
@@ -17,8 +17,8 @@ public class BaseAddress {
         return oid;
     }
 
-    public String getDisplayName1() {
-        return displayName1;
+    public String getDisplayName() {
+        return displayName;
     }
 
     public String getWantingEquipment() {
