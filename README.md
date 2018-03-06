@@ -18,7 +18,7 @@ In your pom.xml inside the *\<dependencies>* tag
     ...
     <dependency>
         <groupId>ru.blizzed</groupId>
-        <artifactId>timetablespbulib</artifactId>
+        <artifactId>timetablespbu-lib</artifactId>
         <version>1.0.0</version>
     </dependency>
 </dependencies>
@@ -32,7 +32,7 @@ In your build.gradle file inside the *dependencies* section
 ``` 
 dependencies {
    ...
-   implementation 'ru.blizzed:timetablespbulib:1.0.0'
+   implementation 'ru.blizzed:timetablespbu-lib:1.0.0'
 }
 ```
   
@@ -40,7 +40,7 @@ dependencies {
 ``` 
 dependencies {
     ...
-    compile 'ru.blizzed:timetablespbulib:1.0.0'
+    compile 'ru.blizzed:timetablespbu-lib:1.0.0'
 }
 ```
   
@@ -92,12 +92,16 @@ try {
 TimeTableApi.divisions().getAll().execute(new ApiCaller.Listener<List<StudyDivision>>() {
     @Override
     public void onComplete(List<StudyDivision> result, ApiCaller<List<StudyDivision>> apiCaller) {
-
+    }
     @Override
     public void onError(ApiError error, ApiCaller<List<StudyDivision>> apiCaller) {
-
+        /* This method triggers you when API has been called but response contains an error */
+        // Handle Api Error
+    }
     @Override
     public void onFailure(ApiCallException e, ApiCaller<List<StudyDivision>> apiCaller) {
+        /* This method triggers you when call to API cannot be established. E.g. no internet connection */
+        // Handle Failure
     }
 });
 ```
