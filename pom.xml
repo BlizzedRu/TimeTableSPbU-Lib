@@ -6,7 +6,7 @@
 
     <groupId>ru.blizzed</groupId>
     <artifactId>timetablespbu-lib</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
     <name>TimeTableSPbU-lib</name>
     <description>Simple Java library for TimeTable of Saint Petersburg State University</description>
