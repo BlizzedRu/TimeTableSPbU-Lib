@@ -34,6 +34,24 @@ public class Event {
     @SerializedName("IsCancelled")
     private boolean isCancelled;
 
+    @SerializedName("IsAssigned")
+    private boolean isAssigned;
+
+    @SerializedName("TimeWasChanged")
+    private boolean isTimeChanged;
+
+    @SerializedName("LocationsWereChanged")
+    private boolean areLocationsChanged;
+
+    @SerializedName("EducatorsWereReassigned")
+    private boolean areEducatorsReassigned;
+
+    @SerializedName("IsElective")
+    private boolean isElective;
+
+    @SerializedName("ElectiveDisciplinesCount")
+    private int electiveDisciplinesCount;
+
     @SerializedName("HasTheSameTimeAsPreviousItem")
     private boolean hasTheSameTimeAsPreviousItem;
 
@@ -144,6 +162,30 @@ public class Event {
 
     public boolean isCancelled() {
         return isCancelled;
+    }
+
+    public boolean isAssigned() {
+        return isAssigned;
+    }
+
+    public boolean isTimeChanged() {
+        return isTimeChanged;
+    }
+
+    public boolean isAreLocationsChanged() {
+        return areLocationsChanged;
+    }
+
+    public boolean isAreEducatorsReassigned() {
+        return areEducatorsReassigned;
+    }
+
+    public boolean isElective() {
+        return isElective;
+    }
+
+    public int getElectiveDisciplinesCount() {
+        return electiveDisciplinesCount;
     }
 
     public boolean isHasTheSameTimeAsPreviousItem() {
