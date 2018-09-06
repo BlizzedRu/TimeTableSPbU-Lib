@@ -34,6 +34,24 @@ public class Event {
     @SerializedName("IsCancelled")
     private boolean isCancelled;
 
+    @SerializedName("IsAssigned")
+    private boolean isAssigned;
+
+    @SerializedName("TimeWasChanged")
+    private boolean isTimeChanged;
+
+    @SerializedName("LocationsWereChanged")
+    private boolean areLocationsChanged;
+
+    @SerializedName("EducatorsWereReassigned")
+    private boolean areEducatorsReassigned;
+
+    @SerializedName("IsElective")
+    private boolean isElective;
+
+    @SerializedName("ElectiveDisciplinesCount")
+    private int electiveDisciplinesCount;
+
     @SerializedName("HasTheSameTimeAsPreviousItem")
     private boolean hasTheSameTimeAsPreviousItem;
 

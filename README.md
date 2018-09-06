@@ -32,7 +32,7 @@ In your build.gradle file inside the *dependencies* section
 ``` 
 dependencies {
    ...
-   implementation 'ru.blizzed:timetablespbu-lib:1.0.0'
+   implementation 'ru.blizzed:timetablespbu-lib:1.0.1'
 }
 ```
   
@@ -40,7 +40,7 @@ dependencies {
 ``` 
 dependencies {
     ...
-    compile 'ru.blizzed:timetablespbu-lib:1.0.0'
+    compile 'ru.blizzed:timetablespbu-lib:1.0.1'
 }
 ```
   
